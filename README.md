@@ -1,2 +1,2 @@
-# Moder-NLP-with-Hugging-Face
-Notebooks for the DLP course by Prof.Mitesh Khapra and me, offered to IITM BS Students. 
+# Modern NLP with Hugging Face
+This is a 4-week long course that helps you understand the rich hugging face ecosystem. Enables one to build and train a model for their use case.
