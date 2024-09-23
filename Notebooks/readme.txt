@@ -1,2 +1,2 @@
-Create a virtual environment and install all required packages.
-If you are using the colab, install missing packages using !pip install <package-name>
+Create a virtual environment and install all packages `pip install <path-to-requirements.txt>`.
+If you use the collab, install missing packages using `!pip install <package-name>` in the code cell.
