@@ -9,4 +9,13 @@ This is a 4-week long course that helps you understand the rich hugging face eco
    - Interleave
    - Map
    - Filter
+## Week 2: Tokenizers
+  - [Slides](https://iitm-pod.slides.com/arunprakash_ai/dlp-lecture-2)
+  - Setup a tokenization pipeline
+  - Train the tokenizer
+  - Encode the input samples (single or batch)
+  - Test the implementation
+  - Save and load the tokenizer
+  - Decode the token_ids
+  - Wrap the tokenizer with the `PreTrainedTokenizer` class
      
