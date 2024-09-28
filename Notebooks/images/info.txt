@@ -1,0 +1,1 @@
+All images used in the notebook are stored here.
