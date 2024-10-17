@@ -38,7 +38,7 @@
     - V100 32 GB single GPU
  - Training Report at [wandb](https://wandb.ai/a-arun283-iit-madras/DLP-GPT2-Node-1/reports/DLP-PreTraining-GPT-2--Vmlldzo5NTgxMTUx)
  - Text Generation
-## Week 4: Fine-tuning LLMs
+## Week 4: Fine-tuning Llama 3.2 1B
  - [Slides](https://iitm-pod.slides.com/arunprakash_ai/dlp-nlp-w4/fullscreen?token=vmr9TM_Z)
  - [Notebook](https://github.com/Arunprakash-A/Modern-NLP-with-Hugging-Face/blob/main/Notebooks/ContPreTrain-Peft-quantize.ipynb)
  - Concepts:
