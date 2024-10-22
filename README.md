@@ -44,7 +44,8 @@
  - Concepts:
     - PEFT and Quantization
     - Continued Pretraining of Llama 3.2 1B on 48 GB L4 GPU
-    - Task-specific fine-tuning (classification)
-    - Instruction tuning, Preference tuning
+    - Task-specific fine-tuning (classification) [Notebook](https://github.com/Arunprakash-A/Modern-NLP-with-Hugging-Face/blob/main/Notebooks/Task-Specific-FineTuning.ipynb)
+    - Instruction tuning [Notebook from Unsloth](https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing)
+    -  Preference tuning 
    
      
