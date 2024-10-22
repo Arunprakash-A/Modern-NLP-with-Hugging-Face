@@ -1,5 +1,5 @@
 # Modern NLP with Hugging Face
- - This is a 4-week long course that helps you understand the rich hugging face ecosystem.   
+ - This is a 4-week-long course helps you understand Hugging Face's rich ecosystem and develop LLM models.
 ## Week 1: Datasets
  - [Slides](https://iitm-pod.slides.com/arunprakash_ai/dlp-lecture-1)
  - [Notebook](https://github.com/Arunprakash-A/Modern-NLP-with-Hugging-Face/blob/main/Notebooks/Datasets.ipynb)
@@ -45,6 +45,7 @@
     - PEFT and Quantization
     - Continued Pretraining of Llama 3.2 1B on 48 GB L4 GPU
     - Task-specific fine-tuning (classification) [Notebook](https://github.com/Arunprakash-A/Modern-NLP-with-Hugging-Face/blob/main/Notebooks/Task-Specific-FineTuning.ipynb)
+    - Task-Specific fine-tuning with LoRA [Notebook](https://github.com/Arunprakash-A/Modern-NLP-with-Hugging-Face/blob/main/Notebooks/Task-Specific-FineTuning-LoRA.ipynb)
     - Instruction tuning [Notebook from Unsloth](https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing)
     -  Preference tuning 
    
