@@ -57,7 +57,7 @@
    - Execute ```python eval_mmlu_cli.py --model gpt2 --num_samples 25``` in the terminal.
    - This will print the score to the console and also generate a plot as shown below
    - ![gpt2-evaluate](https://raw.githubusercontent.com/Arunprakash-A/Modern-NLP-with-Hugging-Face/refs/heads/main/Notebooks/images/gpt2_mmlu_scores.png)
-   - Can you see the problem of averaging the scores?
+   - Can you see the problem with averaging the scores?
 
    
      
