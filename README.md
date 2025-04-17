@@ -48,15 +48,16 @@
     - Instruction tuning [Notebook from Unsloth](https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing)
     -  Preference tuning
   
-## Evalaute
- - [Slides](https://iitm-pod.slides.com/arunprakash_ai)
- - [CLI-Script](https://github.com/Arunprakash-A/Modern-NLP-with-Hugging-Face/blob/main/Notebooks/eval_mmlu_cli.py)
- - We can use a CPU to evaluate the performance of language models on various benchmarks
- - Let's evaluate the performance of GPT-2 model (of course, you can use any model from HF) on the MMLU benchmark
- - Execute ```python eval_mmlu_cli.py --model gpt2 --num_samples 25``` in the terminal.
- - This will print the score to the console and also generate a plot as shown below
- - ![gpt2-evaluate](https://raw.githubusercontent.com/Arunprakash-A/Modern-NLP-with-Hugging-Face/refs/heads/main/Notebooks/images/gpt2_mmlu_scores.png)
- - Can you see the problem of averaging the scores?
+## Optional Contents
+ - Evaluate
+  - [Slides](https://iitm-pod.slides.com/arunprakash_ai)
+  - [CLI-Script](https://github.com/Arunprakash-A/Modern-NLP-with-Hugging-Face/blob/main/Notebooks/eval_mmlu_cli.py)
+  - We can use a CPU to evaluate the performance of language models on various benchmarks
+  - Let's evaluate the performance of GPT-2 model (of course, you can use any model from HF) on the MMLU benchmark
+  - Execute ```python eval_mmlu_cli.py --model gpt2 --num_samples 25``` in the terminal.
+  - This will print the score to the console and also generate a plot as shown below
+  - ![gpt2-evaluate](https://raw.githubusercontent.com/Arunprakash-A/Modern-NLP-with-Hugging-Face/refs/heads/main/Notebooks/images/gpt2_mmlu_scores.png)
+  - Can you see the problem of averaging the scores?
 
    
      
