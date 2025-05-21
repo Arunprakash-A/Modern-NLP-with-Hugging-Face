@@ -59,6 +59,7 @@
    - ![gpt2-evaluate](https://raw.githubusercontent.com/Arunprakash-A/Modern-NLP-with-Hugging-Face/refs/heads/main/Notebooks/images/gpt2_mmlu_scores.png)
    - Can you see the problem with averaging the scores?
    - Evaluate OpenAI models on MMLU [Script](https://github.com/hendrycks/test/blob/master/evaluate.py)
+   - **Important Note**: Performance of Generative models is **sensitive** to subtle implementation details such as the format of prompts. Therefore, use [LM-Harness](https://github.com/EleutherAI/lm-evaluation-harness) for **comparing** the performance of models on standard academic benchmarks 
 
    
      
